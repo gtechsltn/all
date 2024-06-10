@@ -47,6 +47,12 @@ GenericRepoDapperSuite is a C# library for data management following SOLID princ
 
 https://github.com/andissanayake/GenericRepoDapperSuite
 
+# Audit
+
+EF Core Interceptor SaveChangesInterceptor
+
+https://mehmetozkaya.medium.com/ef-core-interceptors-savechangesinterceptor-for-auditing-entities-in-net-8-microservices-6923190a03b9
+
 # Serilog
 
 https://github.com/juldhais/SerilogExample/
