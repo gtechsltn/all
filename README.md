@@ -27,6 +27,8 @@ https://github.com/supertokens/supertokens-core
 
 https://github.com/martincostello/dotnet-bumper
 
+https://github.com/aspnetrun/run-aspnetcore-microservices
+
 Full ASP.NET Core 8.0 LTS application with DDD, CQRS and Event Sourcing
 
 https://github.com/ntxinh/AspNetCore-DDD
@@ -44,3 +46,15 @@ https://github.com/andissanayake/UnifiedApp
 GenericRepoDapperSuite is a C# library for data management following SOLID principles. It integrates Dapper and Dapper.Contrib with a generic repository and unit of work patterns, ensuring efficient and maintainable data access. Perfect for robust, clean architectural designs.
 
 https://github.com/andissanayake/GenericRepoDapperSuite
+
+# Serilog
+
+https://github.com/juldhais/SerilogExample/
+
+https://medium.com/@aydinbskr/logging-using-serilog-in-asp-net-core-d033495bad46
+
+https://shawn-shi.medium.com/asp-net-core-api-starter-project-serilog-for-logging-f91f29d9be62
+
+https://github.com/ShawnShiSS/aspnetcore-api-serilog/
+
+https://medium.com/analytics-vidhya/speed-up-bulk-inserts-to-sql-db-using-pandas-and-python-61707ae41990
