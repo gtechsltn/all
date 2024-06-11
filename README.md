@@ -19,6 +19,22 @@ https://github.com/gtechsltn/js
 
 https://github.com/gtechsltn/test
 
+# Multithreading in .NET (C#) Introduction and Best practices (HAY HAY HAY)
+
+https://medium.com/@codebob75/multithreading-in-c-net-introduction-and-best-practices-fe32257e2956
+
+# EF Core and Dapper
+
+https://kusham1998.medium.com/entity-framework-core-vs-dapper-b50f131e8fb2
+
+# Interview Questions for Senior Developer
+
+https://medium.com/@grishibharadwaj/tricky-c-interview-questions-for-senior-developers-6be1f544a846
+
+https://medium.com/@grishibharadwaj/tricky-c-questions-for-senior-developer-part-2-e401677630bf
+
+https://medium.com/@grishibharadwaj/tricky-c-questions-for-a-senior-developer-part-3-84fa45a0142c
+
 # Top 10 C# Apps You Should Know
 
 https://tomaszs2.medium.com/10-c-apps-you-should-know-eb2beb9292e3
