@@ -418,3 +418,25 @@ https://dev.to/karenpayneoregon/serilog-logging-and-ef-core-logging-25hm
 https://github.com/karenpayneoregon/serilog-ef-core-basics/
 
 https://github.com/gtechsltn/serilog-ef-core-basics/
+
+https://www.ezzylearning.net/tutorial/logging-in-asp-net-core-5-using-serilog
+
+https://medium.com/@lokeshprajapat742000/logging-in-net-core-with-serilog-2bd3e39b4f1d
+
+https://dotnettutorials.net/lesson/logging-to-database-using-serilog-in-asp-net-core-web-api/#google_vignette
+
+Error Handling + Logging + Serilog
+
+https://medium.com/@fatih.akpiyal1/asp-net-core-web-api-your-path-to-building-powerful-apis-a5338ef3b81d
+
+https://codingsonata.com/logging-with-serilog-in-asp-net-core-web-api/
+
+https://codingsonata.com/exception-handling-and-logging-in-asp-net-core-web-api/
+
+# Clean Architecture
+
+https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9
+
+https://github.com/sandeepkumar17/CleanArch
+
+https://medium.com/@lokeshprajapat742000/asp-net-core-web-api-using-repository-pattern-37479725752a
