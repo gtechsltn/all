@@ -1,4 +1,101 @@
-# Boilerplate
+# All
++ .NET Core (C#)
++ MS SQL Server (T-SQL)
++ ASP.NET Core (C#)
++ Web API (C#)
++ OpenAPI Specification with Swagger and Swashbuckle.AspNetCore
++ EF Core (C#)
++ Design Pattern (C#)
++ Logging to Database using Serilog
++ Unit Testing (C#)
+
+https://github.com/gtechsltn/all
+
+https://github.com/gtechsltn/asp-net-core
+
+https://github.com/gtechsltn/sql
+
+https://github.com/gtechsltn/js
+
+https://github.com/gtechsltn/test
+
+# Top 10 C# Apps You Should Know
+
+https://tomaszs2.medium.com/10-c-apps-you-should-know-eb2beb9292e3
+
+### 1/ eShop
+
+A reference .NET application implementing an eCommerce site
+
+https://github.com/dotnet/eShop
+
+eShopOnContainers
+
+Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services
+
+https://github.com/dotnet-architecture/eShopOnContainers
+
+### 2/ Stealerium
+
+Stealer + Clipper + Keylogger
+
+A Stealer written in C#, designed to send logs to your Discord channel via webhook
+
+https://github.com/Stealerium/Stealerium
+
+### 3/ Avalonia
+
+Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+
+https://github.com/AvaloniaUI/Avalonia
+
+### 4/ BTCPay Server
+
+Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+
+BTCPay Server is a free and open-source Bitcoin payment processor which allows you to accept bitcoin without fees or intermediaries.
+
+https://github.com/btcpayserver/btcpayserver
+
+### 5/ nopCommerce
+
+ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+
+nopCommerce is the best open-source eCommerce platform. nopCommerce is free, and it is the most popular ASP.NET Core shopping cart.
+
+https://github.com/nopSolutions/nopCommerce
+
+### 6/ Todo application with ASP.NET Core
+
+Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
+
+https://github.com/davidfowl/TodoApi
+
+### 7/ Ryujinx
+
+Experimental Nintendo Switch Emulator written in C#
+
+https://github.com/Ryujinx/Ryujinx
+
+### 8/ Watt Toolkit (Former name Steam++)
+
+"Watt Toolkit" is an open source cross-platform multi-purpose game toolkit, most of its features require you to download and install Steam to use it.
+
+https://github.com/BeyondDimension/SteamTools/
+
+### 9/ Bitwarden Server
+
+The core infrastructure backend (API, database, Docker, etc).
+
+The Bitwarden Server project contains the APIs, database, and other core infrastructure items needed for the "backend" of all bitwarden client applications.
+
+https://github.com/bitwarden/server
+
+### 10/ MemoryPack
+
+Zero encoding extreme performance binary serializer for C# and Unity.
+
+# Boilerplate or Template
 
 ### A Dotnet 8.0 WebApi template project. MediatR, Swagger, Mapper, Serilog and more implemented.
 
@@ -48,26 +145,7 @@ https://github.com/RandomEngy/UnitTestBoilerplateGenerator
 
 https://github.com/aspnetrun/run-aspnetcore
 
-# All
-+ .NET Core (C#)
-+ MS SQL Server (T-SQL)
-+ ASP.NET Core (C#)
-+ Web API (C#)
-+ OpenAPI Specification with Swagger and Swashbuckle.AspNetCore
-+ EF Core (C#)
-+ Design Pattern (C#)
-+ Logging to Database using Serilog
-+ Unit Testing (C#)
 
-https://github.com/gtechsltn/all
-
-https://github.com/gtechsltn/asp-net-core
-
-https://github.com/gtechsltn/sql
-
-https://github.com/gtechsltn/js
-
-https://github.com/gtechsltn/test
 
 Boilerplate of API in .NET 8 (HAY HAY HAY)
 
