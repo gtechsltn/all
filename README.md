@@ -123,6 +123,76 @@ https://mehmetozkaya.medium.com/ef-core-interceptors-savechangesinterceptor-for-
 
 https://dev.to/moesmp/what-every-asp-net-core-web-api-project-needs-part-1-serilog-o5a
 
+This repository contains an API project developed in .NET 8 for system integration into a collaborative IoT device registration platform
+
+https://github.com/Pedrolustosa/IoTControlTower
+
+# AzureServiceBus
+
+AzureServiceBus is a .NET 8 project that demonstrates how to interact with Azure Service Bus using a Web API and Azure Function. The project includes methods for sending messages to a queue, scheduling messages, and cancelling scheduled messages. It also includes an Azure Function that receives messages from the queue.
+
+https://github.com/YogeshHadiya33/AzureServiceBus
+
+# Notify as a Service
+
+Notify as a service in ASP.NET Core & VSA
+
+https://github.com/thisisnabi/Notify
+
+https://github.com/gtechsltn/Notify
+
+# The E-Commerce User Wallet Service designed in ASP.NET Core
+
+https://github.com/thisisnabi/DigitalWallet
+
+# Vertical Slice Architecture Implementation in ASP.NET Core User Location problem domain.
+
+https://github.com/thisisnabi/Locator
+
+https://github.com/gtechsltn/Locator
+
+# Blogger
+
+Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.
+
+https://github.com/thisisnabi/Blogger
+
+# Admin
+
+Mastering Role-Based Authorization in .NET Core (Backend) APIs
+
+https://medium.com/@okan.yurt/mastering-role-based-authorization-in-net-core-backend-apis-846651dd3b3c
+
+# Upload Files
+
+Uploading files to Google Drive using .NET Console App
+
+https://medium.com/@meghnav274/uploading-files-to-google-drive-using-net-console-app-f0aae69a3f0f
+
+# JWT
+
+Adding Authorization Option in Swagger
+
+https://medium.com/@meghnav274/adding-authorization-option-in-swagger-638abfb0041f
+
+Simple JWT Authentication using ASP.NET Core Web API
+
+https://medium.com/@meghnav274/simple-jwt-authentication-using-asp-net-core-api-5d04b496d27b
+
+https://github.com/Meghna2704/JWT_Authentication_v1
+
+# Version 
+
+https://medium.com/@celery_liu/asp-net-core-web-api-with-swagger-api-versioning-for-dotnet-8-c8ce2fd7808c
+
+# reCaptcha
+
+https://medium.com/@meghnav274/implementing-google-recaptcha-using-asp-net-core-web-24f539ba4987
+
+https://github.com/Meghna2704/reCaptcha/
+
+https://github.com/gtechsltn/reCaptcha-Google
+
 # Serilog
 
 https://github.com/juldhais/SerilogExample/
