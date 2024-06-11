@@ -19,6 +19,22 @@ https://github.com/gtechsltn/js
 
 https://github.com/gtechsltn/test
 
+Boilerplate of API in .NET 8 (HAY HAY HAY)
+
+https://github.com/lkurzyniec/netcore-boilerplate
+
+Custom Db logger library using Serilog (ASP.NET Core 2.2)
+
+https://github.com/skn0/aspnetCoreSerilogDb
+
+A Dotnet 8.0 WebApi template project. MediatR, Swagger, Mapper, Serilog and more implemented (HAY HAY HAY)
+
+https://github.com/yanpitangui/dotnet-api-boilerplate
+
+Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts (HAY HAY HAY)
+
+https://github.com/EduardoPires/EquinoxProject
+
 Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
 https://github.com/supertokens/supertokens-core
@@ -29,7 +45,7 @@ https://github.com/martincostello/dotnet-bumper
 
 https://github.com/aspnetrun/run-aspnetcore-microservices
 
-Full ASP.NET Core 8.0 LTS application with DDD, CQRS and Event Sourcing
+Full ASP.NET Core 8.0 LTS application with DDD, CQRS and Event Sourcing (HAY HAY HAY)
 
 https://github.com/ntxinh/AspNetCore-DDD
 
