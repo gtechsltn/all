@@ -1,3 +1,49 @@
+# Boilerplate
+
+### A Dotnet 8.0 WebApi template project. MediatR, Swagger, Mapper, Serilog and more implemented.
+
+https://github.com/yanpitangui/dotnet-api-boilerplate
+
+### This project is an Web API Open-Source Boilerplate Template that includes ASP.NET Core 5, Web API standards, clean n-tier architecture, GraphQL service, Redis, Mssql, Mongo databases and User Auditing (Identity) with a lot of best practices.
+
+https://github.com/sinantok/aspnetcore-webapi-template
+
+### Boilerplate of API in .NET 8
+
+https://github.com/lkurzyniec/netcore-boilerplate
+
+### An ASP.NET 6 MVC project template for a quick start.
+
+https://github.com/alico/asp-net-6-mvc-boilerplate
+
+### ASP.NET WebApi and Backbone.js Boilerplate For Building Ultimate Web Applications
+
+https://github.com/EffieArditi/AspNet-WebApi-Boilerplate
+
+### This is a boiler plate app framework for asp.net mvc and service stack apps. Includes twitter bootstrap ui framework.
+
+https://github.com/quadio/amss-boilerplate
+
+### Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and Web(MVC) Projects.
+
+https://github.com/aspnetcorehero/Boilerplate
+
+### A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
+
+https://github.com/pdevito3/craftsman
+
+### .Net Web Api (REST) Boilerplate (Update to .NET 8)
+
+https://github.com/MertKaygusuz/City-Library-Demo-Boilerplate-Net-Web-Api
+
+### An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
+
+https://github.com/RandomEngy/UnitTestBoilerplateGenerator
+
+### A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD best practices. Download 100+ page eBook PDF from here ->
+
+https://github.com/aspnetrun/run-aspnetcore
+
 # All
 + .NET Core (C#)
 + MS SQL Server (T-SQL)
