@@ -183,7 +183,13 @@ https://github.com/Meghna2704/JWT_Authentication_v1
 
 # Version 
 
+How to implement URL-based API version control in ASP.NET Core Web API
+
 https://medium.com/@celery_liu/asp-net-core-web-api-with-swagger-api-versioning-for-dotnet-8-c8ce2fd7808c
+
+Understanding Development, Staging, and Production
+
+https://www.daytona.io/dotfiles/understanding-development-staging-and-production
 
 # reCaptcha
 
