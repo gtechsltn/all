@@ -12,6 +12,10 @@ https://github.com/sinantok/aspnetcore-webapi-template
 
 https://github.com/lkurzyniec/netcore-boilerplate
 
+Łukasz Kurzyniec.p‎l ~ Cloud Solutions Architect, Guild Master
+
+https://www.linkedin.com/pulse/boilerplate-api-net-6-%C5%82ukasz-kurzyniec/
+
 ### An ASP.NET 6 MVC project template for a quick start.
 
 https://github.com/alico/asp-net-6-mvc-boilerplate
@@ -115,6 +119,10 @@ EF Core Interceptor SaveChangesInterceptor
 
 https://mehmetozkaya.medium.com/ef-core-interceptors-savechangesinterceptor-for-auditing-entities-in-net-8-microservices-6923190a03b9
 
+# Api
+
+https://dev.to/moesmp/what-every-asp-net-core-web-api-project-needs-part-1-serilog-o5a
+
 # Serilog
 
 https://github.com/juldhais/SerilogExample/
@@ -130,6 +138,14 @@ https://medium.com/sopra-steria-norge/integrating-serilog-with-entity-framework-
 https://medium.com/analytics-vidhya/speed-up-bulk-inserts-to-sql-db-using-pandas-and-python-61707ae41990
 
 https://medium.com/@lokeshprajapat742000/logging-in-net-core-with-serilog-2bd3e39b4f1d
+
+https://mdrijwanansari.wordpress.com/2021/02/18/serilog-implementation-in-asp-net-core-5-0-with-database/
+
+https://code-maze.com/csharp-different-log-levels-in-serilog/
+
+https://code-maze.com/structured-logging-in-asp-net-core-with-serilog/
+
+https://www.codeproject.com/Tips/1159173/Integrate-Serilog-Logging-Framework-with-ASP-NET-C
 
 ## Write log data to MsSqlServer
 
