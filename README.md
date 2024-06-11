@@ -35,11 +35,63 @@ https://medium.com/@grishibharadwaj/tricky-c-questions-for-senior-developer-part
 
 https://medium.com/@grishibharadwaj/tricky-c-questions-for-a-senior-developer-part-3-84fa45a0142c
 
+70 Advanced CSS Interview Questions with Answers and Code Examples
+
+https://medium.com/@komeil.mehranfar/part-1-70-advanced-css-interview-questions-with-answers-and-code-examples-c2eaf8106415
+
+https://medium.com/@komeil.mehranfar/part-2-70-advanced-css-interview-questions-with-answers-and-code-examples-3a787e6df750
+
+https://medium.com/@komeil.mehranfar/part-3-70-advanced-css-interview-questions-with-answers-and-code-examples-3856b460ef72
+
+https://medium.com/@komeil.mehranfar/part-4-70-advanced-css-interview-questions-with-answers-and-code-examples-28ac1299fe15
+
+https://medium.com/@komeil.mehranfar/part-5-70-advanced-css-interview-questions-with-answers-and-code-examples-4bc62e3ac102
+
+https://medium.com/@komeil.mehranfar/part-6-70-advanced-css-interview-questions-with-answers-and-code-examples-2a6bafb9aac6
+
+https://medium.com/@komeil.mehranfar/final-part-70-advanced-css-interview-questions-with-answers-and-code-examples-8e17b6947175
+
+Master JavaScript Interviews with These Top 50 Questions — Get Expert Answers Included!
+
+https://blog.stackademic.com/master-javascript-interviews-with-these-top-50-questions-get-expert-answers-included-e75c31a03e6a
+
+45 JavaScript Super Hacks Every Developer Should Know
+
+https://blog.devgenius.io/45-javascript-super-hacks-every-developer-should-know-92aecfb33ee8
+
+18 Essential JavaScript Methods
+
+https://blog.stackademic.com/18-essential-javascript-methods-85c8380ab848
+
+18 Advanced JavaScript Techniques for Expert Developers
+
+https://javascript.plainenglish.io/18-advanced-javascript-techniques-for-expert-developers-23633e62d4d2
+
+Top 20 JavaScript Interview Questions for Mastering Data Structures
+
+https://medium.com/@aifuture/top-20-javascript-interview-questions-for-mastering-data-structures-3af40cca67b6
+
+14 JavaScript Interview Difficult Questions And Code Implementation
+
+https://blog.stackademic.com/14-javascript-interview-difficult-questions-and-code-implementation-3a72fdc54ecf
+
+Understanding JavaScript Array Methods: A Simple Guide
+
+https://medium.com/@seanbridger/understanding-javascript-array-methods-a-simple-guide-19deae41dcb5
+
+Async/Await vs Promise Chaining in Javascript
+
+https://sameemabbas.medium.com/async-await-vs-promise-chaining-in-javascript-a15c35ddb45c
+
+# 5 Technical Terms
+
+https://levelup.gitconnected.com/5-technical-terms-that-even-senior-programmers-confuse-with-and-its-embarrassing-88cc56b84403
+
 # Top 10 C# Apps You Should Know
 
 https://tomaszs2.medium.com/10-c-apps-you-should-know-eb2beb9292e3
 
-### 1/ eShop
+## 1/ eShop
 
 A reference .NET application implementing an eCommerce site
 
@@ -51,7 +103,7 @@ Cross-platform .NET sample microservices and container based application that ru
 
 https://github.com/dotnet-architecture/eShopOnContainers
 
-### 2/ Stealerium
+## 2/ Stealerium
 
 Stealer + Clipper + Keylogger
 
@@ -59,13 +111,13 @@ A Stealer written in C#, designed to send logs to your Discord channel via webho
 
 https://github.com/Stealerium/Stealerium
 
-### 3/ Avalonia
+## 3/ Avalonia
 
 Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
 https://github.com/AvaloniaUI/Avalonia
 
-### 4/ BTCPay Server
+## 4/ BTCPay Server
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -73,7 +125,7 @@ BTCPay Server is a free and open-source Bitcoin payment processor which allows y
 
 https://github.com/btcpayserver/btcpayserver
 
-### 5/ nopCommerce
+## 5/ nopCommerce
 
 ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
 
@@ -81,25 +133,25 @@ nopCommerce is the best open-source eCommerce platform. nopCommerce is free, and
 
 https://github.com/nopSolutions/nopCommerce
 
-### 6/ Todo application with ASP.NET Core
+## 6/ Todo application with ASP.NET Core
 
 Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
 
 https://github.com/davidfowl/TodoApi
 
-### 7/ Ryujinx
+## 7/ Ryujinx
 
 Experimental Nintendo Switch Emulator written in C#
 
 https://github.com/Ryujinx/Ryujinx
 
-### 8/ Watt Toolkit (Former name Steam++)
+## 8/ Watt Toolkit (Former name Steam++)
 
 "Watt Toolkit" is an open source cross-platform multi-purpose game toolkit, most of its features require you to download and install Steam to use it.
 
 https://github.com/BeyondDimension/SteamTools/
 
-### 9/ Bitwarden Server
+## 9/ Bitwarden Server
 
 The core infrastructure backend (API, database, Docker, etc).
 
@@ -107,7 +159,7 @@ The Bitwarden Server project contains the APIs, database, and other core infrast
 
 https://github.com/bitwarden/server
 
-### 10/ MemoryPack
+## 10/ MemoryPack
 
 Zero encoding extreme performance binary serializer for C# and Unity.
 
